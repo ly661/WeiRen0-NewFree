@@ -11,7 +11,7 @@ Quantumultx
 #TG频道群：https://t.me/WeiRenQAQ
 
 🍚食用方法: 
-1⃣️需要添加资源解析！单独拷贝url地址到QX重写资源里订阅。
+1⃣️需要添加资源解析！把要用的单独拷贝url地址到QX资源-重写里订阅保存。
 2⃣️新手建议直接订阅伟人脚本库一劳永逸！👉 https://raw.githubusercontent.com/WeiRen0/Free/main/weiren.conf
 3⃣️该JS地址仅对强迫症用户提供热门订阅单独添加。如果需要全部请订阅伟人QX脚本库，更加稳定。
 
