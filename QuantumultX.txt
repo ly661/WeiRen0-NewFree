@@ -16,6 +16,12 @@ Quantumultx
 3⃣️该JS地址仅对强迫症用户提供热门订阅单独添加。如果需要全部请订阅伟人QX脚本库，更加稳定。
 
 
+#微商笔记VIP (不用搬会员数据了，定期改密码)
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/weisbj.js
+
+#知乎VIP (不用搬会员数据了，定期改密码)
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/zhu.js
+
 #喜马拉雅儿童VIP(不用搬会员数据了，定期改密码)
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/xmet.js
 
