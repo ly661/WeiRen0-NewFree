@@ -2,25 +2,23 @@
 Quantumultx
 
 #脚本作者：伟人
-#联系作者QQ:55749353
-#最后更新时间：2023-01-31
-#问题反馈：QQ+55749353 小号:486521158
+#联系作者QQ: 
+#最后更新时间：2023-02-11
+#问题反馈：QQ+小号:
 #作者忠告：所有脚本仅限内部测试、学习、开发。禁止用于商业用途！脚本全部由 伟人 制作维护更新。改名搬砖，行骗都属于不道德行为！
 #QQ会员群：PY作者
 #TG反馈群：https://t.me/WeiRenOvO
 #TG频道群：https://t.me/WeiRenQAQ
 
 🍚食用方法: 
-1⃣️需要添加资源解析！把要用的单独拷贝url地址到QX资源-重写里订阅保存。
-2⃣️新手建议直接订阅伟人脚本库一劳永逸！👉 https://raw.githubusercontent.com/WeiRen0/Free/main/weiren.conf
-3⃣️该JS地址仅对强迫症用户提供热门订阅单独添加。如果需要全部请订阅伟人QX脚本库，更加稳定。
+#需要添加资源解析！把要用的单独拷贝url地址到QX资源-重写里订阅保存。
 
 
 #微商笔记VIP (不用搬会员数据了，定期改密码)
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/weisbj.js
 
 #知乎VIP (不用搬会员数据了，定期改密码)
-https://raw.githubusercontent.com/WeiRen0/Scripts/main/zhu.js
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/zhihu6.js
 
 #喜马拉雅儿童VIP(不用搬会员数据了，定期改密码)
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/xmet.js
@@ -35,7 +33,7 @@ https://raw.githubusercontent.com/WeiRen0/Scripts/main/BLBLHD.js
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/ximalaya.js
 
 #剪映+醒图+轻言相机VIP(不用搬会员数据了，定期改密码)
-https://raw.githubusercontent.com/WeiRen0/Scripts/main/Xtu.js
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/XTJYQY.js
 
 #酷我音乐(新版全功能解锁+最完美版)
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/kw.js
