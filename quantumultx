@@ -1,0 +1,110 @@
+# 更新时间: weiren time
+
+[general]
+# 用于节点延迟测试
+server_check_url= http://www.gstatic.com/generate_204
+
+# 服务器测试超时时间 (毫秒)
+server_check_timeout = 3000
+
+# 用于设置图标显示
+profile_img_url=https://github.githubassets.com/images/modules/site/integrators/google.png
+
+# 功能强大的解析器，用于引用资源的转换
+resource_parser_url=https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js
+
+# 下列路径将不经过QuanX的处理
+excluded_routes=239.255.255.250/32, 24.105.30.129/32, 185.60.112.157/32, 185.60.112.158/32, 182.162.132.1/32
+udp_whitelist=1-442, 444-65535
+
+# dns_exclusion_list
+dns_exclusion_list=*.cmpassport.com, *.jegotrip.com.cn, *.icitymobile.mobi, id6.me, *.pingan.com.cn, *.cmbchina.com
+
+
+[dns]
+no-ipv6
+no-system
+server=223.5.5.5
+server=119.29.29.29
+server=114.114.114.114
+server=/*icloud.com/119.29.29.29
+server=/*icloud.com.cn/119.29.29.29
+server=/*.tencent.com/119.29.29.29
+server=/*.weixin.com/119.29.29.29
+
+
+[policy]
+static=伟人速度, proxy, 伟人自动, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs3.png
+url-latency-benchmark=伟人自动, server-tag-regex=.*, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/LovedGM/Quantumult-X-TuBiao/main/zishi-cs/zs14.png
+
+
+[server_remote]
+https://abc868abc.com/link/jXQIk9eUrEcLRrHU?clash=1, tag=SOS紧急呼救, update-interval=172800, opt-parser=true, enabled=true
+
+
+[filter_remote]
+# 分流修正
+https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliuxiuzheng.list, tag=分流修正, force-policy=direct, update-interval=172800, opt-parser=false, enabled=true
+
+# 广告拦截
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list, force-policy=direct, update-interval=172800, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/filter/fenliu.list, tag=广告拦截, force-policy=reject, update-interval=172800, opt-parser=false, enabled=true
+
+
+
+
+[rewrite_local]
+
+
+
+
+[server_local]
+
+trojan=hk-1.ac.laowanxiang.com:8443, password=90025119474.wns.windows.com, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=紧急避险 AC [01]
+[filter_local]
+# Local Area Network 局域网
+host-suffix, local, direct
+ip-cidr, 192.168.0.0/16, direct
+ip-cidr, 10.0.0.0/8, direct
+ip-cidr, 172.16.0.0/12, direct
+ip-cidr, 127.0.0.0/8, direct
+ip-cidr, 100.64.0.0/10, direct
+ip-cidr, 224.0.0.0/4, direct
+ip6-cidr, fe80::/10, direct
+
+# 其他流量
+final, 伟人速度
+
+
+[rewrite_remote]
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/kw.js, tag=by伟人-酷我音乐SVIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/zhihu6.js, tag=by伟人-知乎VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/FD.js, tag=by伟人-樊登读书VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/beile.js, tag=by伟人-贝乐虎启蒙解锁, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/yunt.js, tag=by伟人-云听VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js, tag=by伟人-网易云音乐VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/Xtu.js, tag=by伟人-剪映+醒图+轻言相机VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/xmet.js, tag=by伟人-喜马拉雅儿童版VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/ximalaya.js, tag=by伟人-喜马拉雅VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/weisbj.js, tag=by伟人-微商笔记VIP, update-interval=172800, opt-parser=true, enabled=true
+
+https://raw.githubusercontent.com/WeiRen0/Free1/main/Lsp.conf, tag=伟人LSP脚本, update-interval=172800, opt-parser=true, enabled=true
+
+
+# 去广告
+
+
+[http_backend]
+
+
+[task_local]
+
+
+[mitm]
+passphrase = CBD4B5C2
+p12 =
+skip_validating_cert = true
+force_sni_domain_name = false
+
+# 主机名(*faceu*,*retouchpics* -剪映)
+hostname = 
