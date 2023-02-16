@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/WeiRen0/Scripts/main/FD.js
 #哔哩哔哩(仅解锁画质,需要大会员请加作者)
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/BLBLHD.js
 
-#喜马拉雅VIP(不用搬会员数据了，定期改密码)
+#喜马拉雅VIP(不稳定！请关注作者频道获取最新JS)
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/ximalaya.js
 
 #剪映+醒图+轻言相机VIP(不用搬会员数据了，定期改密码)
