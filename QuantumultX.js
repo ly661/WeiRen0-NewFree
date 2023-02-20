@@ -24,14 +24,14 @@ Quantumultx
 
 
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/kw.js, tag=by伟人-酷我音乐SVIP, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/WeiRen0/Scripts/main/zhihu6.js, tag=by伟人-知乎VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/zhihu7.js, tag=by伟人-知乎VIP, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/FD.js, tag=by伟人-樊登读书VIP, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/beile.js, tag=by伟人-贝乐虎启蒙解锁, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/yunt.js, tag=by伟人-云听VIP, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/wyun.js, tag=by伟人-网易云音乐VIP, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/XTJYQY.js, tag=by伟人-剪映+醒图+轻言相机VIP, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/xmet.js, tag=by伟人-喜马拉雅儿童版VIP, update-interval=172800, opt-parser=true, enabled=true
-https://raw.githubusercontent.com/WeiRen0/Scripts/main/ximalaya.js, tag=by伟人-喜马拉雅VIP, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/WeiRen0/Scripts/main/ximalaya03.js, tag=by伟人-喜马拉雅VIP, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/weisbj.js, tag=by伟人-微商笔记VIP, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/WeiRen0/Free1/main/Lsp.conf, tag=by伟人-LSP脚本, update-interval=172800, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/WeiRen0/Scripts/main/BLBLHD.js, tag=by伟人-哔哩哔哩解锁画质, update-interval=172800, opt-parser=true, enabled=true
